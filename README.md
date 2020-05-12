@@ -1,6 +1,6 @@
 #Online Road to Data Engineer Workshop
 
-[![overview.jpg](https://i.postimg.cc/1tGT8CYy/overview.jpg)](https://postimg.cc/sQ2K8crL)
+[![overview.jpg](https://i.postimg.cc/vDFc0mtr/overview.jpg)](https://postimg.cc/jncx5t92)
 
 ##Workshop 1 - Data Colection with Python
 ###Overview: Extract transaction data from MySQL and conversion rate (pound to baht) from REST API. Then save it into CSV file (dataset)
