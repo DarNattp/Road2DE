@@ -4,9 +4,9 @@
 
 ## Workshop 1 - Data Colection with Python
 ### Overview: Extract transaction data from MySQL and conversion rate (pound to baht) from REST API. Then save it into CSV file (dataset)
-Step 1: Install pymysql >> ! pip install pymysql;
-step 2: Config DB credential to access configuration to database.
-step 3: Connect to DB >> import pymysql.cursors and connect to the datdabase.
+Step 1: Install pymysql >> ! pip install pymysql;\n
+step 2: Config DB credential to access configuration to database.\n
+step 3: Connect to DB >> import pymysql.cursors and connect to the datdabase.\n
 step 4: Query Table by using with statement instead cursor.close().
 step 5: Convert to Pandas >> "import pandas as pd" and process along notebook.
 step 6: Get data from REST API >> "import requests" to get conversion rate table as string type.
