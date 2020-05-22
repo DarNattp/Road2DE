@@ -32,3 +32,4 @@ step 2: Create pipeline.
 
 ## Workshop 6 - Data Visualisation
 ### Overview: Using Google Data Studio to created dashboard for presentation the information.
+[Complete Dashboard](https://datastudio.google.com/u/0/reporting/f80a0de9-3103-4b78-9a0f-9d1c03294cd6/page/rY7FB)
